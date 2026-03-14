@@ -1,11 +1,11 @@
 # About
 
-Hello, I'm Ebraheem Ahmed, a full-stack developer with 1+ year
+Hello, I'm Ebraheem Ahmed, a backend developer with 2+ year
 of experience in freelance back-end development.
 I've built web applications for startups and mid-level agencies,
 specializing in end-to-end solutions.
 My Computer Science degree from Tanta University provided a strong
-foundation, but I’ve focused my expertise on full-stack development.
+foundation, but I’ve focused my expertise on backend development.
 
 Driven by a passion for innovation, I’ve participated in various
 programming competitions, with notable achievements detailed in
